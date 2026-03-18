@@ -24,7 +24,6 @@ Learning repos and experiments in:
 
 ## Find me
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhineet--biju-181717?logo=github)](https://github.com/abhineet-biju)
 [![Org](https://img.shields.io/badge/Org-Abhineet%20Labs-181717?logo=github)](https://github.com/abhineetlabs)
 [![X](https://img.shields.io/badge/X-@AbhineetBiju-000000?logo=x)](https://x.com/AbhineetBiju)
 [![Website](https://img.shields.io/badge/Website-abhineetbiju.com-4285F4?logo=google-chrome&logoColor=white)](https://abhineetbiju.com)
