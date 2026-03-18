@@ -1,0 +1,30 @@
+# Hey, I'm Abhineet
+
+I'm a developer working across crypto, AI, and software infrastructure.
+
+This is my **personal sandbox** - where I learn, experiment, and prototype ideas. Repos here are works-in-progress, learning exercises, and playground projects. Expect rough edges.
+
+## Looking for polished work?
+
+Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where I ship production-ready, open-source developer tools and programs across crypto, AI, and software.
+
+### Highlights from Abhineet Labs
+
+- [**Solana Mobile Dev Context Package**](https://github.com/abhineetlabs/solana-mobile-dev-context-package) - A context engineering package that helps AI coding agents build production-ready Solana mobile apps. Works with Claude Code, Cursor, Windsurf, Copilot, and anything else that can read AGENTS.md.
+- [**anchor-escrow**](https://github.com/abhineetlabs/anchor-escrow) - Trustless escrow program built with Anchor.
+- [**anchor-counter**](https://github.com/abhineetlabs/anchor-counter) - Simple PDA-based counter program.
+- [**anchor-voting-system**](https://github.com/abhineetlabs/anchor-voting-system) - Decentralized polling system for on-chain voting.
+
+## What's in this profile
+
+Learning repos and experiments in:
+- Solana / Anchor / SPL Tokens
+- Rust, TypeScript, Python
+- AI tooling and context engineering
+
+## Find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhineet--biju-181717?logo=github)](https://github.com/abhineet-biju)
+[![Org](https://img.shields.io/badge/Org-Abhineet%20Labs-181717?logo=github)](https://github.com/abhineetlabs)
+[![X](https://img.shields.io/badge/X-@AbhineetBiju-000000?logo=x)](https://x.com/AbhineetBiju)
+[![Website](https://img.shields.io/badge/Website-abhineetbiju.com-4285F4?logo=google-chrome&logoColor=white)](https://abhineetbiju.com)
