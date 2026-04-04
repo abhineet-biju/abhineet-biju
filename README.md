@@ -10,6 +10,7 @@ Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where
 
 ### Highlights from Abhineet Labs
 
+- [**Solana Smart Contract Benchmark**](https://github.com/abhineetlabs/solana-smart-contract-benchmark) - A local benchmark harness for evaluating LLM performance on Solana smart contract generation and repair tasks. 
 - [**Solana Mobile Dev Context Package**](https://github.com/abhineetlabs/solana-mobile-dev-context-package) - A context engineering package that helps AI coding agents build production-ready Solana mobile apps. Works with Claude Code, Cursor, Windsurf, Copilot, and anything else that can read AGENTS.md.
 - [**anchor-escrow**](https://github.com/abhineetlabs/anchor-escrow) - Trustless escrow program built with Anchor.
 - [**anchor-counter**](https://github.com/abhineetlabs/anchor-counter) - Simple PDA-based counter program.
