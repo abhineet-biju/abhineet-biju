@@ -18,10 +18,7 @@ Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where
 
 ## What's in this profile
 
-Learning repos and experiments in:
-- Solana / Anchor / SPL Tokens
-- Rust, TypeScript, Python
-- AI tooling and context engineering
+- [**Blueshift Challenges**](https://github.com/abhineet-biju/blueshift-challenges) - Completed [blueshift.gg](https://blueshift.gg) challenge solutions.
 
 ## Find me
 
