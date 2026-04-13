@@ -20,6 +20,7 @@ Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where
 ## What's in this profile
 
 - [**Blueshift Challenges**](https://github.com/abhineet-biju/blueshift-challenges) - Completed [blueshift.gg](https://blueshift.gg) challenge solutions.
+- [**sol-pnl-engine**](https://github.com/abhineet-biju/sol-pnl-engine) - Reconstructs a Solana wallet's native SOL balance over time using only Helius `getTransactionsForAddress`. No indexing, no database, just RPC.
 
 ## Find me
 
