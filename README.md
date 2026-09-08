@@ -6,7 +6,7 @@ This is my **personal sandbox** - where I learn, experiment, and prototype ideas
 
 ## Looking for polished work?
 
-Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where I ship production-ready, open-source developer tools and programs across crypto, AI, and software.
+Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where I ship polished, portfolio-worthy tools and programs across crypto, AI, and software.
 
 ### Highlights from Abhineet Labs
 
