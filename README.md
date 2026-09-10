@@ -1,12 +1,10 @@
 # Hey, I'm Abhineet
 
-**Developer tools, on-chain applications, and experiments in AI.**
-
-I work mostly with Solana and Rust, building everything from AMMs and shared treasuries to tools for understanding code and evaluating AI models.
+I build **developer tools and on-chain applications** with Solana and Rust, and experiment with AI.
 
 <p>
-  <a href="https://abhineetbiju.com"><img src="assets/website.svg" alt="Personal website: abhineetbiju.com" height="46" /></a>
-  <a href="https://x.com/AbhineetBiju"><img src="assets/x.svg" alt="Twitter: @AbhineetBiju" height="46" /></a>
+  <a href="https://abhineetbiju.com"><img src="assets/website.svg" alt="Personal website: abhineetbiju.com" height="36" /></a>
+  <a href="https://x.com/AbhineetBiju"><img src="assets/x.svg" alt="Twitter: @AbhineetBiju" height="36" /></a>
 </p>
 
 ## Featured projects
