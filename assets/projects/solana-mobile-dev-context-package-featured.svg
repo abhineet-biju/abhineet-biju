@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-labelledby="title desc">
-<title id="title">Solana Contract Benchmark</title><desc id="desc">Evaluates how well LLMs generate and repair Solana smart contracts, with repeatable test suites and multiple model adapters. TypeScript · Rust · LLM evaluation</desc>
+<title id="title">Solana Mobile Context</title><desc id="desc">Curated reference code, documentation, and setup guidance that help AI coding agents build Solana mobile apps. Solana Mobile · AI coding tools</desc>
 <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#211d1b"/><stop offset="1" stop-color="#171615"/></linearGradient></defs>
 <style>.body{font:14px 'Helvetica Neue',Arial,sans-serif;fill:#d2c8bf}.meta{font:10px 'Courier New',monospace;letter-spacing:1.1px;fill:#c99072}</style>
 <rect x=".5" y=".5" width="399" height="179" rx="8" fill="url(#surface)" stroke="#493a31"/>
 <path d="M21 1h36" stroke="#ce774c" stroke-width="2"/>
-<text x="21" y="24" class="meta">AI / EVALUATION</text><text x="373" y="24" text-anchor="end" class="meta">04</text>
-<text x="21" y="53" font-family="Georgia,serif" font-size="21" fill="#f3e7d8">Solana Contract Benchmark</text>
-<text x="21" y="80" class="body">Repeatable evaluations of LLM-generated Solana</text><text x="21" y="98" class="body">contracts, with repair tasks and model adapters.</text>
+<text x="21" y="24" class="meta">DEVELOPER TOOLS / AI</text><text x="373" y="24" text-anchor="end" class="meta">08</text>
+<text x="21" y="53" font-family="Georgia,serif" font-size="21" fill="#f3e7d8">Solana Mobile Context</text>
+<text x="21" y="80" class="body">Reference code and setup guidance for AI agents</text><text x="21" y="98" class="body">building Solana mobile apps.</text>
 <path d="M21 145h358" stroke="#40332c"/>
 <text x="21" y="166" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#c99072">View repository</text>
 <path d="M366 166l10-10m-10 0h10v10" fill="none" stroke="#dfab89" stroke-width="1.4"/>
