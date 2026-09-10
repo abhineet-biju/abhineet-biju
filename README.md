@@ -4,58 +4,23 @@
 
 I work mostly with Solana and Rust, building everything from AMMs and shared treasuries to tools for understanding code and evaluating AI models.
 
-[![Website: abhineetbiju.com](assets/website.svg)](https://abhineetbiju.com)
-[![X: @AbhineetBiju](assets/x.svg)](https://x.com/AbhineetBiju)
+<p>
+  <a href="https://abhineetbiju.com"><img src="assets/website.svg" alt="Personal website: abhineetbiju.com" height="46" /></a>
+  <a href="https://x.com/AbhineetBiju"><img src="assets/x.svg" alt="Twitter: @AbhineetBiju" height="46" /></a>
+</p>
 
 ## Featured projects
 
-### [Pinocchio AMM](https://github.com/abhineet-biju/pinocchio-amm)
+<a href="https://github.com/abhineet-biju/pinocchio-amm"><img src="assets/projects/pinocchio-amm.svg" width="400" alt="Pinocchio AMM: A constant-product AMM built in Rust with Pinocchio, supporting token swaps, liquidity deposits and withdrawals, and configurable fees, tested with LiteSVM." /></a>
+<a href="https://github.com/abhineet-biju/anchor-amm"><img src="assets/projects/anchor-amm.svg" width="400" alt="Anchor AMM: A Solana automated market maker built with Anchor, with swaps, liquidity deposits and withdrawals, and configurable fees." /></a>
+<a href="https://github.com/abhineet-biju/vestry"><img src="assets/projects/vestry.svg" width="400" alt="Vestry: A mobile app for shared on-chain treasuries, with voting on spending and streaming payments to recipients." /></a>
+<a href="https://github.com/abhineet-biju/solana-smart-contract-benchmark"><img src="assets/projects/solana-smart-contract-benchmark.svg" width="400" alt="Solana Contract Benchmark: Evaluates how well LLMs generate and repair Solana smart contracts, with repeatable test suites and multiple model adapters." /></a>
+<a href="https://github.com/abhineet-biju/sol-pnl-engine"><img src="assets/projects/sol-pnl-engine.svg" width="400" alt="SOL PnL Engine: Reconstructs native SOL balance history with adaptive scanning and concurrent RPC fetching. No indexer or database." /></a>
+<a href="https://github.com/abhineet-biju/rust-memory-visualizer"><img src="assets/projects/rust-memory-visualizer.svg" width="400" alt="Rust Memory Visualizer: Explore inferred Rust memory layouts, step through allocation timelines, and inspect compiler-generated assembly." /></a>
+<a href="https://github.com/abhineet-biju/solana-mobile-dev-context-package"><img src="assets/projects/solana-mobile-dev-context-package.svg" width="400" alt="Solana Mobile Context: Curated reference code, documentation, and setup guidance that help AI coding agents build Solana mobile apps." /></a>
 
-`Rust` `Pinocchio` `LiteSVM`
 
-A constant-product AMM built in Rust with Pinocchio, supporting token swaps, liquidity deposits and withdrawals, and configurable fees, tested with LiteSVM.
-
-### [Anchor AMM](https://github.com/abhineet-biju/anchor-amm)
-
-`Rust` `Anchor` `Solana`
-
-A Solana automated market maker built with Anchor, with swaps, liquidity deposits and withdrawals, and configurable fees.
-
-### [Vestry](https://github.com/abhineet-biju/vestry)
-
-`Rust` `Anchor` `React Native`
-
-A mobile app for groups to manage a shared on-chain treasury, vote on spending, and stream payments to recipients.
-
-[Explore Vestry ↗](https://vestry.fi)
-
-### [Solana Smart Contract Benchmark](https://github.com/abhineet-biju/solana-smart-contract-benchmark)
-
-`TypeScript` `Rust` `LLM evaluation`
-
-A local benchmark for evaluating how well LLMs generate and repair Solana smart contracts, with repeatable test suites and multiple model adapters.
-
-[Explore the benchmark ↗](https://abhineetbiju.com/benchmark)
-
-### [sol-pnl-engine](https://github.com/abhineet-biju/sol-pnl-engine)
-
-`Rust` `RPC` `Concurrency`
-
-Reconstructs a wallet's native SOL balance history with adaptive scanning and concurrent transaction fetching. Uses Helius RPC without an indexer or database.
-
-### [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer)
-
-`JavaScript` `SVG` `Developer tools`
-
-An interactive guide to Rust's stack, heap, and static memory. Explore inferred memory layouts, step through an allocation timeline, and inspect compiler-generated assembly.
-
-[Try it in your browser ↗](https://abhineetbiju.com/rustviz)
-
-### [Solana Mobile Dev Context Package](https://github.com/abhineet-biju/solana-mobile-dev-context-package)
-
-`Solana Mobile` `AI coding tools`
-
-Curated reference code, documentation, and setup guidance that help AI coding agents build Solana mobile apps.
+**Try the projects** · [Vestry](https://vestry.fi) · [Solana Smart Contract Benchmark](https://abhineetbiju.com/benchmark) · [Rust Memory Visualizer](https://abhineetbiju.com/rustviz)
 
 ---
 

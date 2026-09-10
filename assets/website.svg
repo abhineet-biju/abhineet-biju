@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="214" height="34" viewBox="0 0 214 34" role="img" aria-label="Website: abhineetbiju.com">
-  <rect x="0.5" y="0.5" width="213" height="33" rx="7" fill="#172554" stroke="#3b82f6"/>
-  <g transform="translate(11 7)" fill="none" stroke="#93c5fd" stroke-width="1.5">
-    <circle cx="10" cy="10" r="8"/><ellipse cx="10" cy="10" rx="3.5" ry="8"/><path d="M2 10h16M4 5.5h12M4 14.5h12"/>
-  </g>
-  <text x="41" y="21.5" fill="#eff6ff" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600">abhineetbiju.com</text>
-  <path d="M190 20l7-7m-7 0h7v7" fill="none" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="46" viewBox="0 0 244 46" role="img" aria-label="PERSONAL WEBSITE"><rect x=".5" y=".5" width="243" height="45" rx="2" fill="#e6cfb8" stroke="#b88967"/><g fill="none" stroke="#29201b" stroke-width="1.5"><circle cx="26" cy="23" r="8"/><ellipse cx="26" cy="23" rx="3.5" ry="8"/><path d="M18 23h16M20 18h12M20 28h12"/></g><text x="48" y="28" font-family="'Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1.5" fill="#29201b">PERSONAL WEBSITE</text></svg>
