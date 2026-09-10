@@ -2,7 +2,7 @@
 
 I build developer tools, applications, and infrastructure across crypto and AI, with a focus on Solana and Rust.
 
-## Selected projects
+## Featured projects
 
 - [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer) visualizes how Rust code uses stack, heap, and static memory. Explore memory maps and step through execution in the browser. [Try it](https://abhineetbiju.com/rustviz).
 - [Solana Smart Contract Benchmark](https://github.com/abhineet-biju/solana-smart-contract-benchmark) evaluates how well LLMs generate and repair Solana smart contracts using a local benchmark harness. [Website](https://abhineetbiju.com/benchmark).
@@ -15,4 +15,5 @@ I also share experiments, smaller tools, and learning projects here, including m
 
 ## Find me
 
-[Website](https://abhineetbiju.com) · [X](https://x.com/AbhineetBiju)
+[![Website: abhineetbiju.com](assets/website.svg)](https://abhineetbiju.com)
+[![X: @AbhineetBiju](assets/x.svg)](https://x.com/AbhineetBiju)
