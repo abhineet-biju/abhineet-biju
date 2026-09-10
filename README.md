@@ -1,27 +1,18 @@
 # Hey, I'm Abhineet
 
-I'm a developer working across crypto, AI, and software infrastructure.
+I build developer tools, applications, and infrastructure across crypto and AI, with a focus on Solana and Rust.
 
-This is my **personal sandbox** - where I learn, experiment, and prototype ideas. Repos here are works-in-progress, learning exercises, and playground projects. Expect rough edges.
+## Selected projects
 
-## Looking for polished work?
+- [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer) visualizes how Rust code uses stack, heap, and static memory. Explore memory maps and step through execution in the browser. [Try it](https://abhineetbiju.com/rustviz).
+- [Solana Smart Contract Benchmark](https://github.com/abhineet-biju/solana-smart-contract-benchmark) evaluates how well LLMs generate and repair Solana smart contracts using a local benchmark harness. [Website](https://abhineetbiju.com/benchmark).
+- [Vestry](https://github.com/abhineet-biju/vestry) is a mobile app for shared on-chain treasuries, with governance and streaming payments. [Website](https://vestry.fi).
+- [Solana Mobile Dev Context Package](https://github.com/abhineet-biju/solana-mobile-dev-context-package) gives AI coding agents context and guidance for building Solana mobile apps.
+- [Pinocchio AMM](https://github.com/abhineet-biju/pinocchio-amm) implements a constant-product AMM for two SPL tokens with Pinocchio, tested with LiteSVM.
+- [sol-pnl-engine](https://github.com/abhineet-biju/sol-pnl-engine) reconstructs a Solana wallet's native SOL balance over time from Helius transaction history, without an indexer or database.
 
-Head over to **[Abhineet Labs](https://github.com/abhineetlabs)** - that's where I ship polished, portfolio-worthy tools and programs across crypto, AI, and software.
-
-### Highlights from Abhineet Labs
-
-- [**Rust Memory Visualizer**](https://github.com/abhineetlabs/rust-memory-visualizer) - Interactive browser tool that visualizes where Rust code allocates memory - stack, heap, .rodata, .data, .bss, and .text. Paste any Rust code, see colored memory maps with pointer arrows, step through execution with dynamic RSP/RBP tracking, and drag segments to rearrange. Zero dependencies, no backend. 
-- [**Solana Smart Contract Benchmark**](https://github.com/abhineetlabs/solana-smart-contract-benchmark) - A local benchmark harness for evaluating LLM performance on Solana smart contract generation and repair tasks. **Website:** [Link](https://abhineetbiju.com/benchmark) 
-- [**Vestry**](https://github.com/abhineetlabs/vestry) - Vestry is a mobile app that let's any group create a shared on-chain treasury, with built-in governance and streaming payments. **Website:** [Link](https://vestry.fi)
-- [**Solana Mobile Dev Context Package**](https://github.com/abhineetlabs/solana-mobile-dev-context-package) - A context engineering package that helps AI coding agents build production-ready Solana mobile apps. Works with Claude Code, Cursor, Windsurf, Copilot, and anything else that can read AGENTS.md.
-
-## What's in this profile
-
-- [**Blueshift Challenges**](https://github.com/abhineet-biju/blueshift-challenges) - Completed [blueshift.gg](https://blueshift.gg) challenge solutions.
-- [**sol-pnl-engine**](https://github.com/abhineet-biju/sol-pnl-engine) - Reconstructs a Solana wallet's native SOL balance over time using only Helius `getTransactionsForAddress`. No indexing, no database, just RPC.
+I also share experiments, smaller tools, and learning projects here, including my [Blueshift challenge solutions](https://github.com/abhineet-biju/blueshift-challenges).
 
 ## Find me
 
-[![Org](https://img.shields.io/badge/Org-Abhineet%20Labs-181717?logo=github)](https://github.com/abhineetlabs)
-[![X](https://img.shields.io/badge/X-@AbhineetBiju-000000?logo=x)](https://x.com/AbhineetBiju)
-[![Website](https://img.shields.io/badge/Website-abhineetbiju.com-4285F4?logo=google-chrome&logoColor=white)](https://abhineetbiju.com)
+[Website](https://abhineetbiju.com) · [X](https://x.com/AbhineetBiju)
