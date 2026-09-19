@@ -1,10 +1,10 @@
 # Hey, I'm Abhineet
 
-I build **developer tools and on-chain applications** with Solana and Rust, and experiment with AI.
+I build **developer tools and on-chain applications** with Solana and Rust.
 
 <p>
   <a href="https://abhineetbiju.com"><img src="assets/website.svg" alt="Personal website: abhineetbiju.com" height="36" /></a>
-  <a href="https://x.com/AbhineetBiju"><img src="assets/x.svg" alt="Twitter: @AbhineetBiju" height="36" /></a>
+  <a href="https://x.com/AbhineetBiju"><img src="assets/x.svg" alt="X/Twitter: @AbhineetBiju" height="36" /></a>
 </p>
 
 ## Projects
@@ -13,11 +13,11 @@ I build **developer tools and on-chain applications** with Solana and Rust, and 
 
 - [Pinocchio AMM](https://github.com/abhineet-biju/pinocchio-amm): A constant-product AMM built in Rust with Pinocchio, with swaps, liquidity deposits and withdrawals, and configurable fees.
 - [Anchor AMM](https://github.com/abhineet-biju/anchor-amm): A Solana AMM built with Anchor, with swaps, liquidity deposits and withdrawals, and configurable fees.
-- [Vestry](https://github.com/abhineet-biju/vestry): A mobile app for shared on-chain treasuries, spending votes, and streaming payments. [Demo](https://vestry.fi)
+- [Shred Codec](https://github.com/abhineet-biju/shred-codec): A Rust library for splitting and reconstructing data using Reed-Solomon erasure coding, with checksum validation and recovery from missing shreds.
+- [Vestry](https://github.com/abhineet-biju/vestry): A mobile app for shared on-chain treasuries, spending votes, and streaming payments. [Website](https://vestry.fi)
 - [Blueshift Challenge Programs](https://github.com/abhineet-biju/blueshift-challenges): Flash loans, vaults, escrow, and AMMs across Anchor, Pinocchio, and Quasar, plus sBPF assembly challenges.
 - [SOL PnL Engine](https://github.com/abhineet-biju/sol-pnl-engine): Reconstructs native SOL balance history with adaptive scanning and concurrent RPC fetching, without an indexer or database.
 - [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer): Explore inferred Rust memory layouts, allocation timelines, and compiler-generated assembly. [Demo](https://abhineetbiju.com/rustviz)
-- [Shred Codec](https://github.com/abhineet-biju/shred-codec): A Rust library for splitting and reconstructing data using Reed-Solomon erasure coding, with checksum validation and recovery from missing shreds.
 
 ### Other Projects
 
