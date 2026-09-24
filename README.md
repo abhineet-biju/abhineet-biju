@@ -21,6 +21,7 @@ I build **developer tools and on-chain applications** with Solana and Rust.
 
 ### Other Projects
 
+- [Stealth Keygen](https://github.com/abhineet-biju/stealth-keygen): A Rust library for stealth payment key generation, recipient key recovery, and scalar-based Ed25519 signing, built as groundwork for a confidential payout system on Solana.
 - [Solana Contract Benchmark](https://github.com/abhineet-biju/solana-smart-contract-benchmark): Evaluates how well LLMs generate and repair Solana smart contracts. [Demo](https://abhineetbiju.com/benchmark)
 - [Solana Mobile Context](https://github.com/abhineet-biju/solana-mobile-dev-context-package): Reference code, documentation, and setup guidance for AI agents building Solana mobile apps.
 - [Custom Doubly Linked List](https://github.com/abhineet-biju/custom-doubly-linked-list-rust): A custom doubly linked list implementation in Rust.
