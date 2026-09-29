@@ -11,6 +11,7 @@ I build **developer tools and on-chain applications** with Solana and Rust.
 
 ### Featured
 
+- [Solte](https://github.com/abhineet-biju/solte): A developer-first Solana wallet built in Rust for the terminal, with project-aware keypairs, transaction simulation and signing, and live RPC diagnostics.
 - [Pinocchio AMM](https://github.com/abhineet-biju/pinocchio-amm): A constant-product AMM built in Rust with Pinocchio, with swaps, liquidity deposits and withdrawals, and configurable fees.
 - [Anchor AMM](https://github.com/abhineet-biju/anchor-amm): A Solana AMM built with Anchor, with swaps, liquidity deposits and withdrawals, and configurable fees.
 - [Shred Codec](https://github.com/abhineet-biju/shred-codec): A Rust library for splitting and reconstructing data using Reed-Solomon erasure coding, with checksum validation and recovery from missing shreds.
