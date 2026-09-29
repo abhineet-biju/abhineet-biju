@@ -18,7 +18,6 @@ I build **developer tools and on-chain applications** with Solana and Rust.
 - [Vestry](https://github.com/abhineet-biju/vestry): A mobile app for shared on-chain treasuries, spending votes, and streaming payments. [Website](https://vestry.fi)
 - [Blueshift Challenge Programs](https://github.com/abhineet-biju/blueshift-challenges): Flash loans, vaults, escrow, and AMMs across Anchor, Pinocchio, and Quasar, plus sBPF assembly challenges.
 - [SOL PnL Engine](https://github.com/abhineet-biju/sol-pnl-engine): Reconstructs native SOL balance history with adaptive scanning and concurrent RPC fetching, without an indexer or database.
-- [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer): Explore inferred Rust memory layouts, allocation timelines, and compiler-generated assembly. [Demo](https://abhineetbiju.com/rustviz)
 
 ### Other Projects
 
@@ -27,7 +26,8 @@ I build **developer tools and on-chain applications** with Solana and Rust.
 - [Solana Mobile Context](https://github.com/abhineet-biju/solana-mobile-dev-context-package): Reference code, documentation, and setup guidance for AI agents building Solana mobile apps.
 - [Custom Doubly Linked List](https://github.com/abhineet-biju/custom-doubly-linked-list-rust): A custom doubly linked list implementation in Rust.
 - [Custom Hash Map](https://github.com/abhineet-biju/custom-hashmap-rust): A custom hash map implementation in Rust.
-
+- [Rust Memory Visualizer](https://github.com/abhineet-biju/rust-memory-visualizer): Explore inferred Rust memory layouts, allocation timelines, and compiler-generated assembly. [Demo](https://abhineetbiju.com/rustviz)
+  
 ---
 
 There's more in my [repositories](https://github.com/abhineet-biju?tab=repositories): smaller tools, experiments, and things I've built while learning.
