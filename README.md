@@ -11,6 +11,7 @@ I build **developer tools and on-chain applications** with Solana and Rust.
 
 ### Featured
 
+- [Scope Protocol](https://github.com/scope-protocol/scope): Experimental confidential payments on Solana, built in Rust with Pinocchio and Token-2022. Supports private amounts, stealth recipient accounts, and payer-funded collection so recipients can collect without holding SOL. [Docs](https://github.com/scope-protocol/scope/tree/main/docs)
 - [Solte](https://github.com/abhineet-biju/solte): A developer-first Solana wallet built in Rust for the terminal, with project-aware keypairs, transaction simulation and signing, and live RPC diagnostics.
 - [Pinocchio AMM](https://github.com/abhineet-biju/pinocchio-amm): A constant-product AMM built in Rust with Pinocchio, with swaps, liquidity deposits and withdrawals, and configurable fees.
 - [Anchor AMM](https://github.com/abhineet-biju/anchor-amm): A Solana AMM built with Anchor, with swaps, liquidity deposits and withdrawals, and configurable fees.
